@@ -1,0 +1,30 @@
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# MLflow
+mlruns/
+mlartifacts/
+
+# Модели и артефакты
+*.pkl
+*.joblib
+models/
+
+# Служебные папки
+_backup_original/
+_build/
+
+# Редакторы
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
