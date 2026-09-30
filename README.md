@@ -8,10 +8,6 @@
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-%3E%3D1.3-orange.svg)](https://scikit-learn.org/)
 [![Лицензия](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-Четыре учебных проекта по классическим алгоритмам машинного обучения.
-Каждый ноутбук содержит полный цикл работы: от загрузки данных
-до оценки качества модели и сравнения нескольких вариантов решения.
-
 ---
 
 ## Быстрый старт
